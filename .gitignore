@@ -1,0 +1,15 @@
+# Executables #
+#####################
+# Ignore all
+*
+
+# Unignore all documents
+!*.pptx
+!*.ppt
+!*.pdf
+!*.wrf
+!*.txt
+!*.circ
+
+# Unignore all dirs
+!*/
